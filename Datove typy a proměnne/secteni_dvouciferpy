@@ -1,0 +1,13 @@
+#dvouciferny promenne ale secte se to mezi sebou
+
+
+cislo = input("Zadej dvou ciferne cislo")
+
+prevedene_prvni_cislo = int(cislo[0])
+prevedene_druhe_cislo = int(cislo[1])
+
+vypocet = prevedene_prvni_cislo + prevedene_druhe_cislo
+
+
+
+print(F" soucet cisel {prevedene_prvni_cislo} a {prevedene_druhe_cislo} je {vypocet}")

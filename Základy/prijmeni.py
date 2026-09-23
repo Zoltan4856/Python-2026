@@ -7,6 +7,7 @@ prijmeni = input("Zadej prijmeni")
 
 
 # chtel bych vzit input jmneo a prijmeni a napsat jenom prvni slovo 
+#Prevedl jsem to lst existuje jinej zpusob?
 inicialy = jmeno[0] , prijmeni[0]
 
 print("tve inicialy jsou " , inicialy)
